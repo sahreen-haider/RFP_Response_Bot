@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+serpapi
+google-search-results
+numexpr
+whisper
+scipy
+tensorflow
